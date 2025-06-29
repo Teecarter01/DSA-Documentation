@@ -11,7 +11,7 @@
 - MS Excell for Data Clearning [Donwload Here](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-office-2021-office-2019-or-office-2016-7c695b06-6d1a-4917-809c-98ce43f86479)
   - For Data Collection
   - For Data Clearning 
-- SQL Server (for Querying and Aanalysis)
+- SQL *Server* (for Querying and Aanalysis)
 - MS Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (for Creating a Report)
 - MS Power Point (for Presentation)
 
@@ -23,4 +23,7 @@ SELECT A,B,C,
 WHERE A > 15
 
 ```
+![SUNDAY SCHOOL](https://github.com/user-attachments/assets/96e6d186-e675-4c4a-8245-f4d443c5587c)
+
+
 
