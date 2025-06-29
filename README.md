@@ -12,6 +12,6 @@
   - For Data Collection
   - For Data Clearning 
 - SQL Server (for Querying and Aanalysis)
-- MS Power BI (for Creating a Report)
+- MS Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (for Creating a Report)
 - MS Power Point (for Presentation)
   
