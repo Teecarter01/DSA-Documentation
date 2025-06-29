@@ -14,8 +14,11 @@
 - SQL Server (for Querying and Aanalysis)
 - MS Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) (for Creating a Report)
 - MS Power Point (for Presentation)
+
+
   
-``` SQL 
+``` SQL ![WhatsApp Image 2025-06-15 at 07 05 26](https://github.com/user-attachments/assets/a07626ef-d69f-4cca-8bfd-b2aaf15374f6)
+
 SELECT A,B,C, 
 WHERE A > 15
 
